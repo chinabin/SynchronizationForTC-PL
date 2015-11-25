@@ -1,0 +1,12 @@
+43:
+constexpr函数准许参数是非常量
+
+45：
+指针的大小必须是常量表达式
+
+50：
+枚举类型
+plain enum和enum class
+
+56:
+invariant
